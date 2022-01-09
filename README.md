@@ -3,7 +3,7 @@ This is a project for the course "Text Mining and Search" - Master's degree in D
 
 
 
-<h1 align="center">Text Mining and Search <br /> Customer segmentation project</h1>
+<h1 align="center">Text Mining and Search <br /> Amazon fine food reviews analysis </h1>
 
 ## Overview
 Final project of the course "Text Mining and Search" in which we tried (to describe)
@@ -16,7 +16,7 @@ The dataset we used was found on kaggle and can be downloaded from the following
 The project was carried out with the use of Python. 
 
 ## File
-  * [Report](./Report/report.pdf): It describes all the steps and choices made.
+  * [Report](./Report/Report.pdf): It describes all the steps and choices made.
   * [Project](./AmazonFineFoodReviews.ipynb): The developed project.
 
 ## About us
