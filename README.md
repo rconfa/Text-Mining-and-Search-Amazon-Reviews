@@ -4,7 +4,7 @@
 Final project of the course "Text Mining and Search" in which we tried (to describe)
 <br />
 The dataset we used was found on kaggle and can be downloaded from the following link:
-  * [Link1](https://www.kaggle.com/snap/amazon-fine-food-reviews)
+  * [Dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
 
 ## Software
